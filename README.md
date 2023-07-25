@@ -1,1 +1,1 @@
-# tyeahead
+# typehead

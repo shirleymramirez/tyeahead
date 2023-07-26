@@ -1,1 +1,1 @@
-# typehead
+# typeahead
